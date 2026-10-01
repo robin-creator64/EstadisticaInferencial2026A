@@ -1,3 +1,5 @@
+Acerca del conjunto de datos
+
 Este conjunto de datos ofrece una visión detallada de las rutinas de ejercicio, los atributos físicos y las métricas de aptitud física de los socios del gimnasio.
 
 Contiene 973 muestras de datos del gimnasio, incluyendo indicadores clave de rendimiento como:
@@ -7,10 +9,6 @@ Calorías quemadas.
 Duración del entrenamiento.
 Datos demográficos.
 Nivel de experiencia.
-
-Esto permite realizar un análisis de los patrones de aptitud física, la progresión de los atletas y las tendencias de salud.
-
-Características principales
 Característica	Descripción
 Edad	Edad del socio del gimnasio.
 Género	Género del socio del gimnasio (Masculino o Femenino).
